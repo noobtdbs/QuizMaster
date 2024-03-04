@@ -71,8 +71,4 @@ $ git clone https://github.com/N0v0cain3/Kuizu.git
 $ cd backend && npm i 
 $ npm start
 ```
-## Contributors
-- <a href="https://github.com/N0v0cain3">Shivam Mehta</a>
-- <a href="https://github.com/mounvip1525">Mounvi Podapati</a>
-- <a href="https://github.com/Manasvi070902">Manasvi Alimchandani</a>
 
