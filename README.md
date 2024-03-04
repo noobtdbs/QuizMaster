@@ -1,6 +1,4 @@
-# KUIZU - AUTOPROCTORED QUIZ SYSTEM
-
-> Making Proctoring of Online Quizzes Simple And Easy With Least Human Interference!
+# QUIZ MASTER
 
 ## Features
 
@@ -57,18 +55,4 @@
 
   </tbody>
 </table>
-
-## Screenshots
-<img src="./frontend/assets/img1.png" alt="Project Screenshots">
-
-<img src="./frontend/assets/phone.png" alt="Project Screenshots">
-
-<img src="./frontend/assets/stop.png" alt="Project Screenshots">
-
-## Steps to run
-```
-$ git clone https://github.com/N0v0cain3/Kuizu.git
-$ cd backend && npm i 
-$ npm start
-```
 
