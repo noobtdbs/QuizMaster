@@ -4,7 +4,7 @@
 /* Modify brand and text color */
 
 .navI {
-	background-color: #f1adba;
+	background-color: #3e65da;
 }
 
 
@@ -152,7 +152,7 @@ body {
   border:none;
   outline:none;
   cursor:pointer;
-  color:rgb(77, 20, 247);
+  color:#3e65da;
   background:#ffffff;
 }
 .signup>div>p{
@@ -193,20 +193,21 @@ body {
   justify-content: center;
 }
 .user>div>p{
-  margin:0;
+  margin: 2px;
   padding:0;
+  color: #FFFFFF;
   font-size:0.95vw;
   vertical-align:bottom;
   text-align: end;
 }
 .user>img{
   height:8vh;
-  background:#B44E48;
+  background:#09cccc;
   border-radius: 10%;
   padding:5px;
 }
 .instructions{
-  background:rgba(216,0,39,0.5);
+  background:#3e65da;
   width:75%;
   margin:auto;
   height:auto;
@@ -279,12 +280,13 @@ body {
 }
 .selection>div>div>button{
   float:right;
-  background:rgba(224,34,68,.5);
+  background:#3e65da;
   border:none;
   outline:none;
   cursor:pointer;
   border-radius: 5px;
   padding:2% 4%;
+  color: #FFFFFF;
 }
 .selection>img{
   height:30vh;
@@ -295,7 +297,7 @@ body {
 }
 .q2{
   transform: scale(1.2,1.5);
-  background:rgba(224,34,68,.4)!important;
+  background:#3e65da!important;
 }
 .inputScale{
   display:flex !important;
